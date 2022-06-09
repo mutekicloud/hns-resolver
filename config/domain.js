@@ -1,7 +1,7 @@
 const conf =
 {
 	domain: "hns-resolver-dun.vercel.app",
-	protocol: "https",
+	protocol: "http",
 }
 
 
